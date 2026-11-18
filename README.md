@@ -25,7 +25,7 @@ Microsoft Excel | Data Analysis | Data Cleaning | Pivot Tables | Data Visualizat
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](Screenshots/Dashboard.png)
+![Retail Sales Dashboard](Screenshot 2026-11-18 065239.png)
 
 ## Pivot Table Analysis
 
