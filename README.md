@@ -23,14 +23,4 @@ This project focuses on analyzing retail sales and profitability using Microsoft
 ## Key Skills
 Microsoft Excel | Data Analysis | Data Cleaning | Pivot Tables | Data Visualization
 
-## Dashboard Preview
 
-![Retail Sales Dashboard](Screenshot 2026-11-18 065239.png)
-
-## Pivot Table Analysis
-
-![Pivot Tables](Screenshots/Pivot_Tables.png)
-
-
----
-**Created by Shalini**
